@@ -1,8 +1,12 @@
 import { enableProdMode } from '@angular/core';
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
+import { registerLocaleData } from '@angular/common';
+import localeEs from '@angular/common/locales/es';
 
 import { AppModule } from './app/app.module';
 import { environment } from './environments/environment';
+
+registerLocaleData(localeEs, 'es');
 
 if (environment.production) {
   enableProdMode();

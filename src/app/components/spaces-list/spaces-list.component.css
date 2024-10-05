@@ -1,0 +1,25 @@
+.full-width {
+    width: 100%;
+  }
+  
+  .mat-column-event,
+  .mat-column-space,
+  .mat-column-type,
+  .mat-column-start,
+  .mat-column-end {
+    flex: 1;
+  }
+  
+  .mat-column-actions {
+    flex: 0 0 100px; /* Ajusta este valor según tus necesidades */
+  }
+
+  .table-container {
+    margin: 10%;
+    overflow-x: auto;
+  }
+  
+  .full-width {
+    width: 100%;
+  }
+  
