@@ -1,27 +1,39 @@
-# ReservaEspaciosFrontend
+# Reserva de Espacios - Frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.9.
+## Descripción
+Este proyecto es la parte frontend de una aplicación de reserva de espacios. Permite a los usuarios ver, reservar y gestionar espacios disponibles.
 
-## Development server
+## Tecnologías utilizadas
+- [Lista las tecnologías principales utilizadas, por ejemplo:]
+- React
+- Redux
+- Material-UI
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Instalación
+Para instalar y ejecutar este proyecto localmente, sigue estos pasos:
 
-## Code scaffolding
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/reserva-espacios-frontend.git
+   ```
+2. Navega al directorio del proyecto:
+   ```bash
+   cd reserva-espacios-frontend
+   ```
+3. Instala las dependencias:
+   ```bash
+   npm install
+   ```
+4. Inicia la aplicación:
+   ```bash
+   npm start
+   ```
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Uso
+[Aquí puedes incluir instrucciones básicas sobre cómo usar la aplicación]
 
-## Build
+## Contribución
+Las contribuciones son bienvenidas. Por favor, abre un issue para discutir los cambios que te gustaría hacer.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Licencia
+[Incluye aquí la información sobre la licencia de tu proyecto]
